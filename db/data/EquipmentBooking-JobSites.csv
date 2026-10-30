@@ -1,0 +1,4 @@
+ID,siteCode,siteName,location,siteEngineer,contactPhone,createdAt,createdBy,modifiedAt,modifiedBy
+site-001;SITE-METRO-04;Metro Rail Phase 2;North Ring Road Corridor, Bengaluru;Arun Kumar;+91 98450 11223
+site-002;SITE-EXP-08;Coastal Highway Link;Sector 14 Bypass, Chennai;Priya Sundaram;+91 97890 44556
+site-003;SITE-AIRPORT-01;Cargo Terminal Expansion;Airport Road Zone B, Hyderabad;Vikram Rao;+91 98765 88990

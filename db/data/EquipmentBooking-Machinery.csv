@@ -1,0 +1,6 @@
+ID,assetCode,name,brand,modelYear,dailyRate,status,category_ID,createdAt,createdBy,modifiedAt,modifiedBy
+mach-001;EXC-CAT-01;CAT 320D Hydraulic Excavator;Caterpillar;2023;14500.00;AVAILABLE;cat-001
+mach-002;BHO-JCB-02;JCB 3DX Super Backhoe Loader;JCB;2024;8500.00;BOOKED;cat-001
+mach-003;CRN-KATO-03;Kato 50T Mobile Rough-Terrain Crane;Kato;2022;22000.00;AVAILABLE;cat-002
+mach-004;TRK-VOLVO-04;Volvo FMX 460 Tipper / Dump Truck;Volvo;2023;11000.00;BOOKED;cat-003
+mach-005;ROL-BOMAG-05;Bomag BW 211 D-5 Single Drum Roller;Bomag;2021;7500.00;UNDER_MAINTENANCE;cat-004

@@ -1,0 +1,4 @@
+ID,bookingNumber,machine_ID,jobSite_ID,startDate,endDate,totalDates,totalCost,operatorName,status,returnCondition,createdAt,createdBy,modifiedAt,modifiedBy
+bk-1001;BK-2026-001;mach-002;site-001;2026-10-25;2026-10-29;5;42500.00;Ramesh Patel;CONFIRMED;Pending return
+bk-1002;BK-2026-002;mach-004;site-002;2026-10-22;2026-10-24;3;33000.00;Suresh Nair;CONFIRMED;Pending return
+bk-1003;BK-2026-003;mach-001;site-003;2026-10-01;2026-10-05;5;72500.00;Karthik Raja;COMPLETED;Good condition, normal track wear
